@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647592594 source:c:\files for code blocks\parking lot project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
